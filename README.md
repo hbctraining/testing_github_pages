@@ -1,2 +1,5 @@
-# testing_github_pages
-test
+# Creating Github pages
+
+Needed
+* Git knowledge on the terminal
+* html coding familiarity
